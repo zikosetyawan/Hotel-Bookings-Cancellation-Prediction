@@ -1,0 +1,2 @@
+ model = https://drive.google.com/file/d/1sM_3IffK_qBHlMCGrtn2LS3LYwB-IRU1/view?usp=drive_link
+ huggingface = https://huggingface.co/spaces/zikosetyawan/Hotel_book
