@@ -24,21 +24,19 @@ dengan fokus utama pada **minimasi false negative**.
 
 ## 📂 Repository Outline
 ```
-1. README.md                 - Dokumentasi dan penjelasan project
-2. EDA_dan_Modeling.ipynb    - Notebook EDA, feature engineering, modeling, dan evaluasi
-3. Inference.ipynb           - Notebook untuk uji coba inference menggunakan data baru
+1. README.md                  - Dokumentasi dan penjelasan project
+2. EDA_dan_Modeling.ipynb     - Notebook EDA, feature engineering, modeling, dan evaluasi
+3. Inference.ipynb            - Notebook untuk uji coba inference menggunakan data baru
 4. dataset/
-   ├── hotel_bookings.csv    - Dataset asli
+   ├── hotel_bookings.csv     - Dataset asli
 5. deployment/
    ├── src/
-   │   ├── streamlit.py      - Main Streamlit app (UI routing)
-   │   ├── eda.py            - EDA visualization untuk deployment
-   │   ├── predict.py        - Logic inference dan prediksi harga
-   │   ├── model_rf_baseline.pkl
-   │   ├── common_kecamatan.pkl
-   │   └── final_features.pkl
-   ├── requirements.txt      - Daftar dependency untuk deployment
-6. url.txt                   - URL model dan deployment
+   │   ├── streamlit.py       - Main Streamlit app (UI routing)
+   │   ├── eda.py             - EDA visualization untuk deployment
+   │   ├── predict.py         - Logic inference dan prediksi harga
+   │   └── hotel_bookings.csv - Dataset yang digunakan untuk huggingface
+   └── requirements.txt       - Daftar dependency untuk deployment
+6. url.txt                    - URL model dan deployment
 
 ```
 ---
