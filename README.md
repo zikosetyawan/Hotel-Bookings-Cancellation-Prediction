@@ -162,7 +162,7 @@ Contoh hasil prediksi pada data baru:
 
 Jika ingin langsung menggunakan model tanpa training ulang:
 
-1. Unduh file `best_rf_model.pkl`
+1. Unduh model yang tertera di `url.txt`
 2. Load model menggunakan `pickle`
 3. Gunakan notebook `Inference.ipynb` sebagai referensi inferensi
 

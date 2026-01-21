@@ -1,2 +1,2 @@
- model = https://drive.google.com/file/d/1sM_3IffK_qBHlMCGrtn2LS3LYwB-IRU1/view?usp=drive_link
- huggingface = https://huggingface.co/spaces/zikosetyawan/Hotel_book
+ model = https://drive.google.com/file/d/1SGMp9ahIUQdN3LEI-0i0NKmgxyq_V-ZL/view?usp=drive_link
+ huggingface = https://huggingface.co/spaces/zikosetyawan/Hotel_Bookings_Cancellation_Prediction
